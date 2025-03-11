@@ -9,4 +9,5 @@ Proyecto Sistema de Gestion de Restaurantes que permita gestionar las operacione
 
 ## Integrantes
 Ericson Junior Vargas Perez.
+
 Josue Ibañez.
