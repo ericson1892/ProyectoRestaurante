@@ -8,5 +8,5 @@ Proyecto Sistema de Gestion de Restaurantes que permita gestionar las operacione
 ###	Facturación: Generación de facturas y control de pagos.
 
 ## Integrantes
-Ericson Junior Vargas Perez
-Josue Ibañez
+Ericson Junior Vargas Perez.
+Josue Ibañez.
